@@ -1,4 +1,1 @@
-hello world 
-demo 2 created in the master
-
-demo 2 modified in d2 of branch1
+newly modified demo2 during conflict
